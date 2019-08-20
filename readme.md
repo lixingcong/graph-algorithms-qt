@@ -6,6 +6,4 @@ GUI allows for moving start/end points as well as adding obstacles.
 
 ![Screenshot](screenshot.png)
 
-## Bazel config
-
-Bazel configuration is based on github.com/bbreslauer/qt-bazel-example
+Compiled using Qt 5.9.8 for linux ok.
